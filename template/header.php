@@ -37,7 +37,7 @@
 </head>
 <body id="default_theme" class="it_service">
 <!-- loader -->
-<div class="bg_load"> <img class="loader_animation" src="images/loaders/loader_1.png" alt="#" /> </div>
+<div class="bg_load"> <img class="fade-in" src="images/loaders/loader_1.png" alt="#" /> </div>
 <!-- end loader -->
 <!-- header -->
 <header id="default_header" class="header_style_1">

@@ -93,7 +93,9 @@
           </div>
         </div>
       </div>
-            <div class="col-md-3">
+
+      <div class="center">
+      <div class="col-md-3">
         <div class="full blog_colum">
           <div class="blog_feature_img"> <img src="images/blog/1.jpg" alt="#" /> </div>
           <div class="blog_feature_head">
@@ -115,7 +117,7 @@
           </div>
         </div>
       </div>
-                  <div class="col-md-3">
+      <div class="col-md-3">
         <div class="full blog_colum">
           <div class="blog_feature_img"> <img src="images/blog/1.jpg" alt="#" /> </div>
           <div class="blog_feature_head">
@@ -126,17 +128,8 @@
           </div>
         </div>
       </div>
-                  <div class="col-md-3">
-        <div class="full blog_colum">
-          <div class="blog_feature_img"> <img src="images/blog/1.jpg" alt="#" /> </div>
-          <div class="blog_feature_head">
-            <h4>Title</h4>
-          </div>
-          <div class="blog_feature_cont">
-            <p>Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          </div>
-        </div>
-      </div>
+    </div>
+
     </div>
   </div>
     <br>
@@ -208,7 +201,7 @@
     </div>
   </div>
     <br>
-  <div class="center"><a class="btn main_bt" href="news-event.php">View all</a></div>
+  <div class="center"><a class="btn main_bt" href="#">View all</a></div>
 </div>
 <!-- end section -->
 <!-- end inner page banner -->
