@@ -168,7 +168,7 @@
           </div>
           <div class="blog_feature_cont">
             <p>Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-              <p><a href="article-view.php" class="post_read_more">Read more</a></p>
+              <p><a href="#" class="post_read_more">Read more</a></p>
           </div>
         </div>
       </div>
@@ -183,7 +183,7 @@
           </div>
           <div class="blog_feature_cont">
             <p>Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-              <p><a href="article-view.php" class="post_read_more">Read more</a></p>
+              <p><a href="#" class="post_read_more">Read more</a></p>
           </div>
         </div>
       </div>
@@ -198,7 +198,7 @@
           </div>
           <div class="blog_feature_cont">
             <p>Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-              <p><a href="article-view.php" class="post_read_more">Read more</a></p>
+              <p><a href="#" class="post_read_more">Read more</a></p>
           </div>
         </div>
       </div>
