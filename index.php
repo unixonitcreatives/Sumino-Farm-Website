@@ -7,7 +7,7 @@
       <div class="col-md-12">
         <div class="full">
           <div class="main_heading text_align_center">
-            <h2>We are Leading Company!!!</h2>
+            <h2>We are Leading Company</h2>
             <p class="large">Advance Technology</p>
           </div>
         </div>
