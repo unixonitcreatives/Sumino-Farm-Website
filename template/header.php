@@ -79,12 +79,12 @@
   <div class="header_bottom">
     <div class="container">
       <div class="row">
-        <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
           <!-- logo start -->
           <div class="logo"> <a href="index.php"><img src="images/logos/logo.png" alt="logo" /></a> </div>
           <!-- logo end -->
         </div>
-        <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
           <!-- menu start -->
           <div class="menu_side">
             <div id="navbar_menu">
