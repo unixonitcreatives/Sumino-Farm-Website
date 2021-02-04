@@ -94,7 +94,7 @@
         </div>
       </div>
 
-      <div class="center">
+      <!-- <div class="center"> -->
       <div class="col-md-3">
         <div class="full blog_colum">
           <div class="blog_feature_img"> <img src="images/blog/1.jpg" alt="#" /> </div>
@@ -128,7 +128,7 @@
           </div>
         </div>
       </div>
-    </div>
+    <!-- </div> -->
 
     </div>
   </div>
