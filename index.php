@@ -121,7 +121,7 @@
         <div class="full blog_colum">
           <div class="blog_feature_img"> <img src="images/blog/1.jpg" alt="#" /> </div>
           <div class="blog_feature_head">
-            <h4>Title</h4>
+            <h4>Title2</h4>
           </div>
           <div class="blog_feature_cont">
             <p>Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
