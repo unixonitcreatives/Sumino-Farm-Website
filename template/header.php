@@ -122,5 +122,5 @@
     </div>
   </div>
   <!-- header bottom end -->
-</div>
+
 </header>
