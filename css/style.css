@@ -774,7 +774,7 @@ hr.dottad_border {
 	margin: 20px auto 0;
 	width: 80px;
 	height: 5px;
-	background: #003a00;
+	background: #ffc846;
 }
 
 .main_heading.text_align_left::after {
@@ -3146,7 +3146,7 @@ span.skill {
 .product_list:hover,
 .product_list:focus {
 	box-shadow: 0 0 25px -17px #000;
-	border-bottom: solid #003a00 5px;
+	border-bottom: solid #ffc846 5px;
 }
 
 .product_img {
@@ -3207,7 +3207,7 @@ span.skill {
 .post_read_more {
 	font-size: 16px;
 	font-weight: 600;
-	color: #003a00;
+	color: #ffc846;
 }
 
 .recent_item {
@@ -3793,8 +3793,8 @@ footer ul.social_icons {
 
 .team_blog_colum:hover,
 .team_blog_colum:focus {
-	background: #003a00;
-	border-color: #003a00;
+	background: #ffc846;
+	border-color: #ffc846;
 }
 
 .team_blog_colum:hover h4,

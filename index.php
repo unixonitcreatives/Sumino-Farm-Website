@@ -6,6 +6,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="full">
+
           <div class="main_heading text_align_center">
             <h2>We are Leading Company123</h2>
             <p class="large">Advance Technology</p>
@@ -13,6 +14,9 @@
         </div>
       </div>
     </div>
+
+    <iframe id="ytplayer" width="100%" height="500" src="https://www.youtube.com/embed/7LqAJoD-PpA?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br><br>
     <div class="row about_blog">
       <div class="col-lg-6 col-md-6 col-sm-12 about_cont_blog">
         <div class="full text_align_left">
